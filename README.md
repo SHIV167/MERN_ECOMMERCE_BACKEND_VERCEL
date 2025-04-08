@@ -5,12 +5,12 @@ MERN E-Commerce (in Hindi) with Admin Panel, Redux Toolkit, Stripe Payment, Clou
 
 
 🔥 Related Videos :
-- Multer Middleware (for file upload) -  https://youtu.be/qfN6c5FEAQQ
-- Mongoose populate - https://youtu.be/VuSt5-AwL8Y
-- Passport  JS Authentication - https://youtu.be/U-S3rgG8hBE
+- Multer Middleware (for file upload) -  
+- Mongoose populate - 
+- Passport  JS Authentication - 
 - JWT Auth  is  from  - Node MasterClass (Link above)
-- Vercel deployment details  - Node MasterClass (Link above)
-- React Router Crash Course: https://bit.ly/36YfO2i
+- Vercel deployment details  -
+- React Router Crash Course: 
 
 🔥 Features :
 - Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
