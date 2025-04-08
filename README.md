@@ -1,16 +1,10 @@
 
 
 
-MERN E-Commerce (in Hindi) with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features (complete features given below in Description )
+MERN E-Commerce  with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features (complete features given below in Description )
 
 
-🔥 Related Videos :
-- Multer Middleware (for file upload) -  
-- Mongoose populate - 
-- Passport  JS Authentication - 
-- JWT Auth  is  from  - Node MasterClass (Link above)
-- Vercel deployment details  -
-- React Router Crash Course: 
+ 
 
 🔥 Features :
 - Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
